@@ -24,4 +24,11 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: sudo apt-get install graphviz
+        run: |
+              sudo apt-get install graphviz
+              dot question1.dot -Tpng> question1.png 
+      - uses: EndBug/add-and-commit@v5
+        with:
+          add: "*"
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
