@@ -6,10 +6,10 @@ question.desc file where question is the number of the question listed below
 1. Question 1
    Let L
 
-![question1](1a.png)
+![question1](imgs/1a.png)
 
 
 2. Question 2
    Let
 
-![question2](1b.png)
+![question2](imgs/1b.png)
