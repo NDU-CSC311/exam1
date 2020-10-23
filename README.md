@@ -2,27 +2,28 @@
 
 This is part of a previous exam with solution. You write your solution in the
 question.desc file where question is the number of the question listed below. Your solution will automatically be transformed into an FA graph as shown in the figure below. This might prevent you from making mistakes.
-1. Auest
-    <ol type="a">
-    <li>Coffee</li>
-    <li>Tea</li>
-    <li>Milk</li>
-    </ol>
-1. Question 1
-   1. Let L={w in {0,1}*  such that the penultimate symbol in w is a 1}
+## Write a DFA for the following
+1. Let L={w in {0,1}<sup>*</sup>  such that the penultimate symbol in w is a 1}
       ![question1](imgs/1a.png)
-   1. Second
-   [check](https://github.com/NDU-CSC311/exam1/blob/main/1a.desc)
-   1. Third
+   write your answer [here](https://github.com/NDU-CSC311/exam1/blob/main/1.desc)
 
 
-2. Question 2.
-   <ol type="a">
-    <li>Coffee</li>
-    <li>Tea</li>
-    <li>Milk</li>
-    </ol>
-   Let L={w in {0,1}* | w has at least one zero and every zero is preceded exactly by one 1
+2. Let L={w in {0,1}* | w has at least one zero and every zero is preceded exactly by one 1
    and followed exactly by one 1}
 
-![question2](imgs/1b.png)
+![here](imgs/2.png)
+write your answer [here](2.desc)
+
+3. Let L={w in {0,1}<sup>*</sup>| the substring 1001 occurs at least once in w}
+
+![here](imgs/3.png)
+write your answer [here](3.desc)
+
+4. Let L={w in {0,1}<sup>*</sup>|  w has no two consecutive 1's}
+
+![here](imgs/3.png)
+write your answer [here](4.desc)
+
+
+
+## Write an NFA for the following
