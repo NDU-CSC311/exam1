@@ -17,7 +17,11 @@ question.desc file where question is the number of the question listed below. Yo
 
 
 2. Question 2.
-
+   <ol type="a">
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+    </ol>
    Let L={w in {0,1}* | w has at least one zero and every zero is preceded exactly by one 1
    and followed exactly by one 1}
 
