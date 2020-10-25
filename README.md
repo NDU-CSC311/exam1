@@ -34,4 +34,53 @@ write your answer [here](4.desc)
 ![here](imgs/5.png)
 
 write your answer [here](5.desc)
+
 ## Write an NFA for the following
+
+6. L= { w in {a,b}<sup>*</sup>| w=(e U a<sup>n</sup>)b<sup>m</sup>} where e is the 
+empty string
+
+![here](imgs/6.png)
+
+write your answer [here](6.desc)
+
+
+7. L= { w in {a,b}<sup>*</sup>| w starts and ends with the same symbol and |w|>1 } 
+
+![here](imgs/7.png)
+
+write your answer [here](7.desc)
+
+8. L= { w in {0,1}<sup>*</sup>| the third symbol from the right of w is a one  } 
+
+![here](imgs/8.png)
+
+write your answer [here](8.desc)
+
+
+9. L= { w in {0,1}<sup>*</sup>| w contains the substring 0101 } 
+
+![here](imgs/9.png)
+
+write your answer [here](9.desc)
+
+
+10. L= { w in {a,b,c}<sup>*</sup>| if w contains b it does not contain c and vice versa} 
+
+![here](imgs/10.png)
+
+write your answer [here](10.desc)
+
+11. L= { w in {a,b}<sup>*</sup>| w=(ab)<sup>n</sup>} 
+
+![here](imgs/11.png)
+
+write your answer [here](11.desc)
+
+
+
+
+
+
+
+
