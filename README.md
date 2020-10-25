@@ -4,17 +4,19 @@ This is part of a previous exam with solution. You write your solution in the
 question.desc file where question is the number of the question listed below. Your solution will automatically be transformed into an FA graph as shown in the figure below. This might prevent you from making mistakes.
 ## Write a DFA for the following
 1. Let L={w in {0,1}<sup>*</sup>  such that the penultimate symbol in w is a 1}
-   ![question1](imgs/1a.png)
-
-   write your answer [here](1.desc)
+  
+Write your answer (use open in new tab) [here](1.desc)
+After you commit a graphics of your answer will appear below (it might take some time)
+ ![question1](imgs/1.png)
 
 
 2. Let L={w in {0,1}* | w has at least one zero and every zero is preceded exactly by one 1
    and followed exactly by one 1}
+Write your answer (use open in new tab) [here](2.desc)
+
+After you commit a graphics of your answer will appear below (it might take some time)
 
 ![here](imgs/2.png)
-
-write your answer [here](2.desc)
 
 3. Let L={w in {0,1}<sup>*</sup>| the substring 1001 occurs at least once in w}
 
