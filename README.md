@@ -99,7 +99,7 @@ After you commit a graphics of your answer will appear below (it might take some
 
 12. Consider the following e-NFA. Answer the questions in the file below
 
-![here](imgs/11.png)
+![here](imgs/12.png)
 
 Write your answer (use open in new tab) [here](12.ans)
 
