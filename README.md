@@ -106,6 +106,3 @@ Write your answer (use open in new tab) [here](12.ans)
 
 
 
-
-
-
