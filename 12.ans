@@ -1,0 +1,17 @@
+### What is the e-closure of all states
+E(p0)=p0,p3
+E(p1)=p1
+E(p2)=p2,p5
+E(p3)=p3
+E(p4)=p3,p4
+E(p5)=p5
+### What states are reached, write the list of states after the = sign, separated by comman
+## when the input is
+aa=p2,p5
+bbc=empty
+aab=empty
+aaab=p3,p4
+## Describe the language of N, free style.
+
+L(N)=(aaa)*(aac* U b*)
+

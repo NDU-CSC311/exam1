@@ -103,6 +103,13 @@ After you commit a graphics of your answer will appear below (it might take some
 
 Write your answer (use open in new tab) [here](12.ans)
 
+13. Construct a DFA equivalent to the e-NFA in the previous question
+
+Write your answer (use open in new tab) [here](13.desc)
+
+
+After you commit a graphics of your answer will appear below (it might take some time)
+![here](imgs/13.png)
 
 
 
