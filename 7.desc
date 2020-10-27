@@ -13,9 +13,9 @@ accepting-p2
 p0-a-p1
 p0-b-p3
 p1-a-p1
-p1-b-p2
+p1-a-p2
 p1-b-p1
-p3-a-p2
+p3-b-p2
 p3-a-p3
 p3-b-p3
 
