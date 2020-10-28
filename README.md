@@ -12,7 +12,7 @@ After you commit a graphics of your answer will appear below (it might take some
 
 
 2. Let L={w in {0,1}* | w has at least one zero and every zero is preceded exactly by one 1
-   and followed exactly by one 1}
+   and followed exactly by two 1}
    
 Write your answer (use open in new tab) [here](2.desc)
 
